@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node src/cli/productsCli.js",
+    "start": "node src/cli/index.js",
     "test": "node scripts/test.cjs"
   },
   "keywords": [],
